@@ -1,0 +1,14 @@
+C:\Users\Nirman\ghost\ghost-module\target\wasm32-unknown-unknown\release\deps\serde-5dc523596e15bba3.d: C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Nirman\ghost\ghost-module\target\wasm32-unknown-unknown\release\build\serde-0f06ef859d942015\out/private.rs
+
+C:\Users\Nirman\ghost\ghost-module\target\wasm32-unknown-unknown\release\deps\libserde-5dc523596e15bba3.rlib: C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Nirman\ghost\ghost-module\target\wasm32-unknown-unknown\release\build\serde-0f06ef859d942015\out/private.rs
+
+C:\Users\Nirman\ghost\ghost-module\target\wasm32-unknown-unknown\release\deps\libserde-5dc523596e15bba3.rmeta: C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\Nirman\ghost\ghost-module\target\wasm32-unknown-unknown\release\build\serde-0f06ef859d942015\out/private.rs
+
+C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\Nirman\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\Nirman\ghost\ghost-module\target\wasm32-unknown-unknown\release\build\serde-0f06ef859d942015\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Nirman\\ghost\\ghost-module\\target\\wasm32-unknown-unknown\\release\\build\\serde-0f06ef859d942015\\out

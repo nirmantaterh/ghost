@@ -1,0 +1,4 @@
+{
+  "database": "ghost",
+  "module_path": "./ghost-module"
+}

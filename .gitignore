@@ -5,3 +5,8 @@ dist/
 __pycache__/
 *.pyc
 .spacetime/
+mcserver/world/
+mcserver/world_nether/
+mcserver/world_the_end/
+*.lock
+logs/
