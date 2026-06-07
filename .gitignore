@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.pt
+__pycache__/
+*.pyc
+.spacetime/
